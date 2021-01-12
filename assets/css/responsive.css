@@ -300,6 +300,7 @@
 	.hero h1 {
 		font-size: 32px
 		margin-bottom: 10px;
+		color: red;
 	}
 
 	.job-title {
@@ -331,6 +332,7 @@
 	.site-section h2,
 	.site-section h3 {
 	    font-size: 28px;
+		color: red;
 	}
 
 	.img-lines {
